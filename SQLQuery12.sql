@@ -1,0 +1,1 @@
+SELECT TOP 10 ProductID, ProductName, UnitPrice, UnitsInStock FROM Products
